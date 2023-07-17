@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-Study/Linux/基于zfs文件系统安装Ubuntu22.04/"}
+{"dg-publish":true,"permalink":"/3-Study/Linux/基于zfs文件系统安装Ubuntu22.04/","tags":["gardenEntry"]}
 ---
 
 
